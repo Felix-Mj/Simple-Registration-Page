@@ -1,0 +1,26 @@
+
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    flex-direction: column;
+    background-color: aqua;
+}
+h4{
+    text-align: center;
+    margin-left: 15%;
+}
+table td:first-child{
+    text-align: end;
+}
+.main-conatiner{
+    background-color: #fff;
+    border-radius: 10px;
+}
+input{
+    outline: none;
+}
+
+  
